@@ -1,1 +1,1 @@
-# This repository was created for an task of Descomplica College
+# This repository was created for a task of Descomplica College
